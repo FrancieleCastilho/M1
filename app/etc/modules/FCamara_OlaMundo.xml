@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <Academia_HelloWorld>
+        <FCamara_OlaMundo>
             <active>true</active>
             <codePool>local</codePool>
-        </Academia_HelloWorld>
+        </FCamara_OlaMundo>
     </modules>
 </config>

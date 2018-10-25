@@ -6,6 +6,12 @@
                 <version>1.0.0</version>
             </academia_helloworld>
         </modules>
+        <blocks>
+            <academia_helloworld>
+                <class>Academia_HelloWorld_Block</class>
+            </academia_helloworld>
+        </blocks>
+
     </global>
     <frontend>
         <routers>

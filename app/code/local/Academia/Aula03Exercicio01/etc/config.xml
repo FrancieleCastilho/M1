@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <modules>
+            <academia_aula03exercicio01>
+                <version>1.0.0</version>
+            </academia_aula03exercicio01>
+        </modules>
+         
+        <blocks>
+            <academia_aula3exercicio01>
+                <class>Academia_Aula03Exercicio01_Block</class>
+            </academia_aula3exercicio01>
+        </blocks>
+    </global>
+    <frontend>
+        <routers>
+            <aula03exercicio01>
+                <use>standard</use>
+                <args>
+                    <module>Academia_Aula03Exercicio01</module>
+                    <frontName>aula03exercicio01</frontName>
+                </args>
+            </aula03exercicio01>
+        </routers>
+    </frontend>
+</config>
+
+
+
+        
